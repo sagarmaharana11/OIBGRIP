@@ -1,2 +1,0 @@
-# OIBGRIP
-Oasis Infobyte Internship 
